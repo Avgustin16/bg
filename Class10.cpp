@@ -2,88 +2,72 @@
 #include<string>
 using namespace std;
 
-class car
+class hospital
 {
 private:
-	string brand;
-	string colour;
-	string rgn_num;
-	double mileage;
+	string name;
+	string diagnose;
+	int days;
 public:
-	/*car(string b, string c, string r, double m)
+	hospital()
 	{
-		brand = b;
-		colour = c;
-		rgn_num = r;
-		mileage = m;
-	}*/
-
-	car()
-	{
-		brand = "none";
-		colour = "none";
-		rgn_num = "none";
-		mileage = 0;
+		name = "none";
+		diagnose = "none";
+		days = 0;
 	}
 	void Input()
 	{
-		cout << "brand: "; getline(cin, brand);
-		cout << "colour: "; getline(cin, colour);
-		cout << "rgn_num: "; getline(cin, rgn_num);
-		cout << "mileage: "; cin >> mileage;
+		cout << "name: "; getline(cin, name);
+		cout << "diagnose: "; getline(cin, diagnose);
+		cout << "days: "; cin >> days;
 		cin.ignore();
 	}
-	string get_brand()
+	string get_name()
 	{
-		return brand;
+		return name;
 	}
-	string get_colour()
+	string get_diagnose()
 	{
-		return colour;
+		return diagnose;
 	}
-	string get_rgn_num()
+	double get_days()
 	{
-		return rgn_num;
-	}
-	double get_mileage()
-	{
-		return mileage;
+		return days;
 	}
 	void Output()
 	{
-		cout << brand << endl;
-		cout << colour << endl;
-		cout << rgn_num << endl;
-		cout << mileage << endl;
+		cout << name << endl;
+		cout << diagnose << endl;
+		cout << days << endl;
 	}
 };
 
-class CarName :car
+class HospitalData :hospital
 {
 private:
-	string owner;
-	string city_of_rgn;
+	string disease;
+	int age;
 public:
-	CarName()
+	HospitalData()
 	{
-		car::car();
-		owner = "none";
-		city_of_rgn = "none";
+		hospital::hospital();
+		disease = "none";
+		age = "none";
 	}
 	void Input1()
 	{
 		car::Input();
 		//cin.ignore();
-		cout << "owner: "; getline(cin, owner);
-		cout << "city_of_rgn: "; getline(cin, city_of_rgn);
+		cout << "disease: "; getline(cin, disease);
+		cout << "age: "; getline(cin, age);
 	};
 	void Output1()
 	{
-		car::Output();
-		cout << owner << endl;
-		cout << city_of_rgn << endl;
+		hospital::Output();
+		cout << disease << endl;
+		cout << age << endl;
 	}
-	car::get_mileage;
+	car::get_days;
 };
 
 int main()
