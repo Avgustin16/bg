@@ -1,0 +1,7 @@
+c:\users\12v_5\documents\visual studio 2010\Projects\Project4_SortedList\Project4_SortedList\bin\Debug\Project4_SortedList.exe
+c:\users\12v_5\documents\visual studio 2010\Projects\Project4_SortedList\Project4_SortedList\bin\Debug\Project4_SortedList.pdb
+c:\users\12v_5\documents\visual studio 2010\Projects\Project4_SortedList\Project4_SortedList\obj\x86\Debug\Project4_SortedList.Form1.resources
+c:\users\12v_5\documents\visual studio 2010\Projects\Project4_SortedList\Project4_SortedList\obj\x86\Debug\Project4_SortedList.Properties.Resources.resources
+c:\users\12v_5\documents\visual studio 2010\Projects\Project4_SortedList\Project4_SortedList\obj\x86\Debug\Project4_SortedList.csproj.GenerateResource.Cache
+c:\users\12v_5\documents\visual studio 2010\Projects\Project4_SortedList\Project4_SortedList\obj\x86\Debug\Project4_SortedList.exe
+c:\users\12v_5\documents\visual studio 2010\Projects\Project4_SortedList\Project4_SortedList\obj\x86\Debug\Project4_SortedList.pdb
