@@ -5,3 +5,12 @@ c:\users\12v_5\documents\visual studio 2010\Projects\Project4_SortedList\Project
 c:\users\12v_5\documents\visual studio 2010\Projects\Project4_SortedList\Project4_SortedList\obj\x86\Debug\Project4_SortedList.csproj.GenerateResource.Cache
 c:\users\12v_5\documents\visual studio 2010\Projects\Project4_SortedList\Project4_SortedList\obj\x86\Debug\Project4_SortedList.exe
 c:\users\12v_5\documents\visual studio 2010\Projects\Project4_SortedList\Project4_SortedList\obj\x86\Debug\Project4_SortedList.pdb
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project4_SortedList\Project4_SortedList\bin\Debug\Project4_SortedList.exe
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project4_SortedList\Project4_SortedList\bin\Debug\Project4_SortedList.pdb
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project4_SortedList\Project4_SortedList\obj\x86\Debug\Project4_SortedList.csprojAssemblyReference.cache
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project4_SortedList\Project4_SortedList\obj\x86\Debug\Project4_SortedList.Form1.resources
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project4_SortedList\Project4_SortedList\obj\x86\Debug\Project4_SortedList.Properties.Resources.resources
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project4_SortedList\Project4_SortedList\obj\x86\Debug\Project4_SortedList.csproj.GenerateResource.cache
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project4_SortedList\Project4_SortedList\obj\x86\Debug\Project4_SortedList.csproj.CoreCompileInputs.cache
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project4_SortedList\Project4_SortedList\obj\x86\Debug\Project4_SortedList.exe
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project4_SortedList\Project4_SortedList\obj\x86\Debug\Project4_SortedList.pdb

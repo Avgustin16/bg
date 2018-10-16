@@ -19,6 +19,7 @@ namespace Project4_SortedList
         private void button1_Click(object sender, EventArgs e)
         {
             listBox1.Items.Add(textBox1.Text);
+            textBox1.Text = "";
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -33,6 +34,11 @@ namespace Project4_SortedList
                 listBox1.Sorted = false;
                 button2.Text = "Sort";
             }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Close();
         }
     }
 }
