@@ -40,5 +40,10 @@ namespace Project4_SortedList
         {
             Close();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Clear();
+        }
     }
 }
