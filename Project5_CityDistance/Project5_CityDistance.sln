@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project5_CityDistance", "Project5_CityDistance\Project5_CityDistance.csproj", "{FD5B87C7-2964-40B8-81C4-F987E2501000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD5B87C7-2964-40B8-81C4-F987E2501000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5B87C7-2964-40B8-81C4-F987E2501000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5B87C7-2964-40B8-81C4-F987E2501000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5B87C7-2964-40B8-81C4-F987E2501000}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E11FCDC-00C6-4143-8C5A-F7C71C97CBC1}
+	EndGlobalSection
+EndGlobal
