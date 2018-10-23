@@ -1,0 +1,7 @@
+c:\users\12v_5\documents\visual studio 2010\Projects\Project8\Project8\obj\x86\Debug\Project8.Form1.resources
+c:\users\12v_5\documents\visual studio 2010\Projects\Project8\Project8\obj\x86\Debug\Project8.Properties.Resources.resources
+c:\users\12v_5\documents\visual studio 2010\Projects\Project8\Project8\obj\x86\Debug\Project8.csproj.GenerateResource.Cache
+c:\users\12v_5\documents\visual studio 2010\Projects\Project8\Project8\bin\Debug\Project8.exe
+c:\users\12v_5\documents\visual studio 2010\Projects\Project8\Project8\bin\Debug\Project8.pdb
+c:\users\12v_5\documents\visual studio 2010\Projects\Project8\Project8\obj\x86\Debug\Project8.exe
+c:\users\12v_5\documents\visual studio 2010\Projects\Project8\Project8\obj\x86\Debug\Project8.pdb
