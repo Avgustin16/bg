@@ -5,7 +5,6 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Project10
@@ -17,32 +16,46 @@ namespace Project10
             InitializeComponent();
         }
 
+        int generatedNumber, inputNumber, countOfTries;
+
         private void button1_Click(object sender, EventArgs e)
         {
-            //if
-            int numberOfThought = int.Parse(textBox1.Text);
-            int numberOfGuess=-1;
-            int countOfGuesses = 0;
-            while (numberOfGuess != numberOfThought)
-            {
-                Random random;
-                random = new Random();
-                numberOfGuess = random.Next(1, 101);
-                textBox2.Text = numberOfGuess.ToString();
-                countOfGuesses++;
-                if(numberOfGuess==numberOfThought - 1 || numberOfGuess == numberOfThought + 1)
-                {
-                    listBox1.Items.Add(numberOfGuess + " -> " + countOfGuesses + "-ия път");
-                }
-            }
-            label2.Text = "Компютърър позна числото ти от " + countOfGuesses + "-ия път!";
+            Random random;
+            random = new Random();
+            generatedNumber = random.Next(1, 101);
+            countOfTries = 10;
+            textBox1.Clear();
+            label2.Text = "Остават " + countOfTries + " опита";
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            textBox1.Clear();
-            textBox2.Clear();
-            listBox1.Items.Clear();
+            inputNumber = int.Parse(textBox1.Text);
+            if (countOfTries != 0)
+            {
+                if (inputNumber == generatedNumber)
+                {
+                    label4.Text = "Позна!";
+                }
+                else
+                {
+                    if (inputNumber > generatedNumber)
+                    {
+                        label4.Text = "Надолу";
+                    }
+                    else
+                    {
+                        label4.Text = "Нагоре";
+                    }
+                }
+                textBox1.Clear();
+                countOfTries--;
+                label2.Text = "Остават " + countOfTries + " опита";
+            }
+            else
+            {
+                label4.Text = "Загуби";
+            }
         }
     }
 }
