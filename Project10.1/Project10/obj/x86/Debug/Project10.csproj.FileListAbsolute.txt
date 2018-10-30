@@ -1,0 +1,16 @@
+c:\users\admin\documents\visual studio 2010\Projects\Project10\Project10\bin\Debug\Project10.exe
+c:\users\admin\documents\visual studio 2010\Projects\Project10\Project10\bin\Debug\Project10.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Project10\Project10\obj\x86\Debug\Project10.Form1.resources
+c:\users\admin\documents\visual studio 2010\Projects\Project10\Project10\obj\x86\Debug\Project10.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\Project10\Project10\obj\x86\Debug\Project10.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\Project10\Project10\obj\x86\Debug\Project10.exe
+c:\users\admin\documents\visual studio 2010\Projects\Project10\Project10\obj\x86\Debug\Project10.pdb
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project10.1\Project10\bin\Debug\Project10.exe
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project10.1\Project10\bin\Debug\Project10.pdb
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project10.1\Project10\obj\x86\Debug\Project10.csprojAssemblyReference.cache
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project10.1\Project10\obj\x86\Debug\Project10.Form1.resources
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project10.1\Project10\obj\x86\Debug\Project10.Properties.Resources.resources
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project10.1\Project10\obj\x86\Debug\Project10.csproj.GenerateResource.cache
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project10.1\Project10\obj\x86\Debug\Project10.csproj.CoreCompileInputs.cache
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project10.1\Project10\obj\x86\Debug\Project10.exe
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project10.1\Project10\obj\x86\Debug\Project10.pdb
