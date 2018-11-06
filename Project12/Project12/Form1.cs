@@ -21,7 +21,7 @@ namespace Project12
             int day = int.Parse(textBox1.Text);
             int month = int.Parse(textBox2.Text);
             int year = int.Parse(textBox3.Text);
-            int countOfDaysPerMonth;
+            int countOfDaysPerMonth=0;
             if (month == 1 || month == 3 || month == 5 || month == 7 || month == 8 || month == 10 || month == 12)
             {
                 countOfDaysPerMonth = 31;
@@ -29,6 +29,52 @@ namespace Project12
             if (month == 2 || month == 4 || month == 6 || month == 9 || month == 11)
             {
                 countOfDaysPerMonth = 30;
+            }
+            if (day < countOfDaysPerMonth)
+            {
+                day++;
+            }
+            else
+            {
+                if (month < 12)
+                {
+                    day = 1;
+                    month++;
+                }
+                else
+                {
+                    day = 1;
+                    month = 1;
+                    year++;
+                }
+            }
+            textBox4.Text = day + "." + month + "." + year;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int day = int.Parse(textBox1.Text);
+            int month = int.Parse(textBox2.Text);
+            int year = int.Parse(textBox3.Text);
+            int countOfDaysPerMonth = 0;
+            if (month == 1 || month == 3 || month == 5 || month == 7 || month == 8 || month == 10 || month == 12)
+            {
+                countOfDaysPerMonth = 31;
+            }
+            if (month == 2 || month == 4 || month == 6 || month == 9 || month == 11)
+            {
+                countOfDaysPerMonth = 30;
+            }
+            if (day > 1)
+            {
+                day--;
+            }
+            else
+            {
+                if (month > 1)
+                { 
+                    if(month == 1 || month == 3 || month == 5 || month == 7 || month == 8 || month == 10 || month == 12)
+                }
             }
         }
     }

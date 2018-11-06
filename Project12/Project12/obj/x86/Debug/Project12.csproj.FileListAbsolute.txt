@@ -1,0 +1,8 @@
+C:\Users\12v_5\documents\visual studio 2010\Projects\Project12\Project12\bin\Debug\Project12.exe
+C:\Users\12v_5\documents\visual studio 2010\Projects\Project12\Project12\bin\Debug\Project12.pdb
+C:\Users\12v_5\documents\visual studio 2010\Projects\Project12\Project12\obj\x86\Debug\Project12.csprojResolveAssemblyReference.cache
+C:\Users\12v_5\documents\visual studio 2010\Projects\Project12\Project12\obj\x86\Debug\Project12.Form1.resources
+C:\Users\12v_5\documents\visual studio 2010\Projects\Project12\Project12\obj\x86\Debug\Project12.Properties.Resources.resources
+C:\Users\12v_5\documents\visual studio 2010\Projects\Project12\Project12\obj\x86\Debug\Project12.csproj.GenerateResource.Cache
+C:\Users\12v_5\documents\visual studio 2010\Projects\Project12\Project12\obj\x86\Debug\Project12.exe
+C:\Users\12v_5\documents\visual studio 2010\Projects\Project12\Project12\obj\x86\Debug\Project12.pdb
