@@ -5,3 +5,12 @@ c:\users\12v_5\documents\visual studio 2010\Projects\Project13\Project13\obj\x86
 c:\users\12v_5\documents\visual studio 2010\Projects\Project13\Project13\obj\x86\Debug\Project13.csproj.GenerateResource.Cache
 c:\users\12v_5\documents\visual studio 2010\Projects\Project13\Project13\obj\x86\Debug\Project13.exe
 c:\users\12v_5\documents\visual studio 2010\Projects\Project13\Project13\obj\x86\Debug\Project13.pdb
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project13\Project13\bin\Debug\Project13.exe
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project13\Project13\bin\Debug\Project13.pdb
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project13\Project13\obj\x86\Debug\Project13.csprojAssemblyReference.cache
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project13\Project13\obj\x86\Debug\Project13.Form1.resources
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project13\Project13\obj\x86\Debug\Project13.Properties.Resources.resources
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project13\Project13\obj\x86\Debug\Project13.csproj.GenerateResource.cache
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project13\Project13\obj\x86\Debug\Project13.csproj.CoreCompileInputs.cache
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project13\Project13\obj\x86\Debug\Project13.exe
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project13\Project13\obj\x86\Debug\Project13.pdb

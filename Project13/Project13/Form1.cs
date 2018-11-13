@@ -37,15 +37,27 @@ namespace Project13
         private void button1_Click(object sender, EventArgs e)
         {
             textBox1.Clear();
-            radioButton1.Checked = false;
-            radioButton2.Checked = false;
-            radioButton3.Checked = false;
-            radioButton4.Checked = false;
-            radioButton5.Checked = false;
-            radioButton6.Checked = false;
-            radioButton7.Checked = false;
-            radioButton8.Checked = false;
-            radioButton9.Checked = false;
+            //дълъг, бавен и тромав метод
+            //radioButton1.Checked = false;
+            //radioButton2.Checked = false;
+            //radioButton3.Checked = false;
+            //...
+            var groupBox1Items = groupBox1.Controls;
+            var groupBox2Items = groupBox2.Controls;
+            var groupBox3Items = groupBox3.Controls;
+            UnCheck(groupBox1Items);
+            UnCheck(groupBox2Items);
+            UnCheck(groupBox3Items);
+
+        }
+
+        private void UnCheck(Control.ControlCollection buttons)
+        {
+            foreach(var item in buttons)
+            {
+                var button = (RadioButton)item;
+                button.Checked = false;
+            }
         }
     }
 }
