@@ -1,0 +1,7 @@
+c:\users\12v_5\documents\visual studio 2010\Projects\Project18\Project18\bin\Debug\Project18.exe
+c:\users\12v_5\documents\visual studio 2010\Projects\Project18\Project18\bin\Debug\Project18.pdb
+c:\users\12v_5\documents\visual studio 2010\Projects\Project18\Project18\obj\x86\Debug\Project18.Form1.resources
+c:\users\12v_5\documents\visual studio 2010\Projects\Project18\Project18\obj\x86\Debug\Project18.Properties.Resources.resources
+c:\users\12v_5\documents\visual studio 2010\Projects\Project18\Project18\obj\x86\Debug\Project18.csproj.GenerateResource.Cache
+c:\users\12v_5\documents\visual studio 2010\Projects\Project18\Project18\obj\x86\Debug\Project18.exe
+c:\users\12v_5\documents\visual studio 2010\Projects\Project18\Project18\obj\x86\Debug\Project18.pdb
