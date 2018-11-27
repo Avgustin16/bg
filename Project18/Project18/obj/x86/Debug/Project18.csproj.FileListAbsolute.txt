@@ -5,3 +5,12 @@ c:\users\12v_5\documents\visual studio 2010\Projects\Project18\Project18\obj\x86
 c:\users\12v_5\documents\visual studio 2010\Projects\Project18\Project18\obj\x86\Debug\Project18.csproj.GenerateResource.Cache
 c:\users\12v_5\documents\visual studio 2010\Projects\Project18\Project18\obj\x86\Debug\Project18.exe
 c:\users\12v_5\documents\visual studio 2010\Projects\Project18\Project18\obj\x86\Debug\Project18.pdb
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project18\Project18\bin\Debug\Project18.exe
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project18\Project18\bin\Debug\Project18.pdb
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project18\Project18\obj\x86\Debug\Project18.csprojAssemblyReference.cache
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project18\Project18\obj\x86\Debug\Project18.Form1.resources
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project18\Project18\obj\x86\Debug\Project18.Properties.Resources.resources
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project18\Project18\obj\x86\Debug\Project18.csproj.GenerateResource.cache
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project18\Project18\obj\x86\Debug\Project18.csproj.CoreCompileInputs.cache
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project18\Project18\obj\x86\Debug\Project18.exe
+C:\Aвгустин\Documents\VS Windows Forms Applications\Project18\Project18\obj\x86\Debug\Project18.pdb

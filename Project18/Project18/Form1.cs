@@ -18,7 +18,6 @@ namespace Project18
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //не занулира всичко/поне не правилно?
             listBox1.Items.Clear();
             label6.Text = "";
 
@@ -36,14 +35,21 @@ namespace Project18
             int y3 = int.Parse(textBox6.Text);
             distance[2] = Math.Sqrt(Math.Pow(x3, 2) + Math.Pow(y3, 2));
             points[2]="Точка 3";
-            string buf;
-            for (int i = 1; i < 3; i++)
+            string buf2; double buf1;
+            for (int k = 1; k < 3; k++)
             {
-                if (distance[i] < distance[i - 1])
+                for (int i = 1; i < 3; i++)
                 {
-                    buf=points[i];
-                    points[i] = points[i - 1];
-                    points[i - 1] = buf;
+                    if (distance[i] < distance[i - 1])
+                    {
+                        buf1 = distance[i];
+                        distance[i] = distance[i - 1];
+                        distance[i - 1] = buf1;
+
+                        buf2 = points[i];
+                        points[i] = points[i - 1];
+                        points[i - 1] = buf2;
+                    }
                 }
             }
             for (int i = 0; i < 3; i++)
