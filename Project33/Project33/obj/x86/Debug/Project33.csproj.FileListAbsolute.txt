@@ -1,0 +1,7 @@
+c:\users\12v_5\documents\visual studio 2010\Projects\Project33\Project33\bin\Debug\Project33.exe
+c:\users\12v_5\documents\visual studio 2010\Projects\Project33\Project33\bin\Debug\Project33.pdb
+c:\users\12v_5\documents\visual studio 2010\Projects\Project33\Project33\obj\x86\Debug\Project33.Form1.resources
+c:\users\12v_5\documents\visual studio 2010\Projects\Project33\Project33\obj\x86\Debug\Project33.Properties.Resources.resources
+c:\users\12v_5\documents\visual studio 2010\Projects\Project33\Project33\obj\x86\Debug\Project33.csproj.GenerateResource.Cache
+c:\users\12v_5\documents\visual studio 2010\Projects\Project33\Project33\obj\x86\Debug\Project33.exe
+c:\users\12v_5\documents\visual studio 2010\Projects\Project33\Project33\obj\x86\Debug\Project33.pdb
