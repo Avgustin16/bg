@@ -1,0 +1,8 @@
+C:\Users\12v_5\Documents\Visual Studio 2010\Projects\Project35\Project35\bin\Debug\Project35.exe
+C:\Users\12v_5\Documents\Visual Studio 2010\Projects\Project35\Project35\bin\Debug\Project35.pdb
+C:\Users\12v_5\Documents\Visual Studio 2010\Projects\Project35\Project35\obj\x86\Debug\Project35.csprojResolveAssemblyReference.cache
+C:\Users\12v_5\Documents\Visual Studio 2010\Projects\Project35\Project35\obj\x86\Debug\Project35.Form1.resources
+C:\Users\12v_5\Documents\Visual Studio 2010\Projects\Project35\Project35\obj\x86\Debug\Project35.Properties.Resources.resources
+C:\Users\12v_5\Documents\Visual Studio 2010\Projects\Project35\Project35\obj\x86\Debug\Project35.csproj.GenerateResource.Cache
+C:\Users\12v_5\Documents\Visual Studio 2010\Projects\Project35\Project35\obj\x86\Debug\Project35.exe
+C:\Users\12v_5\Documents\Visual Studio 2010\Projects\Project35\Project35\obj\x86\Debug\Project35.pdb
