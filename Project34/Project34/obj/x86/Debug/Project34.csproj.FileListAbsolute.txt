@@ -1,0 +1,8 @@
+C:\Users\12v_5\Documents\Visual Studio 2010\Projects\Project34\Project34\bin\Debug\Project34.exe
+C:\Users\12v_5\Documents\Visual Studio 2010\Projects\Project34\Project34\bin\Debug\Project34.pdb
+C:\Users\12v_5\Documents\Visual Studio 2010\Projects\Project34\Project34\obj\x86\Debug\Project34.csprojResolveAssemblyReference.cache
+C:\Users\12v_5\Documents\Visual Studio 2010\Projects\Project34\Project34\obj\x86\Debug\Project34.Form1.resources
+C:\Users\12v_5\Documents\Visual Studio 2010\Projects\Project34\Project34\obj\x86\Debug\Project34.Properties.Resources.resources
+C:\Users\12v_5\Documents\Visual Studio 2010\Projects\Project34\Project34\obj\x86\Debug\Project34.csproj.GenerateResource.Cache
+C:\Users\12v_5\Documents\Visual Studio 2010\Projects\Project34\Project34\obj\x86\Debug\Project34.exe
+C:\Users\12v_5\Documents\Visual Studio 2010\Projects\Project34\Project34\obj\x86\Debug\Project34.pdb
