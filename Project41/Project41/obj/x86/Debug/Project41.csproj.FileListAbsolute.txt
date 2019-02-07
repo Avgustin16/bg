@@ -1,0 +1,8 @@
+c:\users\12v_5\documents\visual studio 2010\Projects\Project41\Project41\bin\Debug\Project41.exe
+c:\users\12v_5\documents\visual studio 2010\Projects\Project41\Project41\bin\Debug\Project41.pdb
+c:\users\12v_5\documents\visual studio 2010\Projects\Project41\Project41\obj\x86\Debug\Project41.Form1.resources
+c:\users\12v_5\documents\visual studio 2010\Projects\Project41\Project41\obj\x86\Debug\Project41.Properties.Resources.resources
+c:\users\12v_5\documents\visual studio 2010\Projects\Project41\Project41\obj\x86\Debug\Project41.csproj.GenerateResource.Cache
+c:\users\12v_5\documents\visual studio 2010\Projects\Project41\Project41\obj\x86\Debug\Project41.exe
+c:\users\12v_5\documents\visual studio 2010\Projects\Project41\Project41\obj\x86\Debug\Project41.pdb
+C:\Users\12v_5\documents\visual studio 2010\Projects\Project41\Project41\obj\x86\Debug\Project41.csprojResolveAssemblyReference.cache
